@@ -1,0 +1,2 @@
+E:\UFPB\Mestrado\2020-1\Estrutura de dados e complexidade de algoritmos\SortingAlgorithms\Debug\SortingAlgorithms.exe
+E:\UFPB\Mestrado\2020-1\Estrutura de dados e complexidade de algoritmos\SortingAlgorithms\Debug\SortingAlgorithms.pdb
